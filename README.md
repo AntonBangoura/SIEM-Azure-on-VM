@@ -1,10 +1,10 @@
 # SIEM-Azure-on-VM
 
-Mise en place d'une VM "honeypot" avec Azure, sans firewall ni protection afin d'accumuler les événements de sécurité.
-Traitement des résultats avec Logs analytics et Azure sentinel.
-Connection à distance avec Remmina.
-Un projet passionnant, qui me permet d'apprendre à travailler avec Azure et un SIEM.
-Il m'a fallu apprendre et comprendre les différentes fonctionnalités de la plateforme Azure, j'ai même pu générer un ticket.
+Mise en place d'une VM "honeypot" avec Azure, sans firewall ni protection afin d'accumuler les événements de sécurité. <br>
+Traitement des résultats avec Logs analytics et Azure sentinel.<br>
+Connection à distance avec Remmina.<br>
+Un projet passionnant, qui me permet d'apprendre à travailler avec Azure et un SIEM.<br>
+Il m'a fallu apprendre et comprendre les différentes fonctionnalités de la plateforme Azure, j'ai même pu générer un ticket.<br>
 
 
 
